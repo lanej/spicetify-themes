@@ -54,6 +54,7 @@
 .SidebarListItem--is-active,
 .RootlistItem--is-active {
   background: var(--modspotify_sidebar_indicator_and_hover_button_bg) !important;
+  color: var(--modspotify_main_bg) !important;
 }
 
 /*like heart thingy in bottom player*/
